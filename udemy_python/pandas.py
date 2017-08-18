@@ -27,13 +27,3 @@ nfl_frame['Stadium'] = stadiums
 
 # カラムの削除
 del nfl_frame['Stadium']
-
-
-
-
-
-
-
-
-
-
